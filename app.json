@@ -1,7 +1,7 @@
 {
   "name": "SWIFT BOT",
   "description": "Hi there, I am Swift Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254746995661",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+  "logo": "https://telegra.ph/file/488e8d79f857f5dfb0df0.jpg",
   "keywords": ["whatsappbot", "SwìftMd", "Swift Md bot", "Swift-Md", "SwiftMdWhatsaooBot", "SwiftWaBot","SwiftMD","Swift Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+      "value": "https://telegra.ph/file/488e8d79f857f5dfb0df0.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
