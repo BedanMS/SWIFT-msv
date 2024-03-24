@@ -1,15 +1,15 @@
 {
-  "name": "gifted-md@V.2.0.0",
-  "description": "Hi there, I am Gifted Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254728782591",
+  "name": "SWIFT BOT",
+  "description": "Hi there, I am Swift Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254746995661",
   "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
-  "keywords": ["whatsappbot", "giftedMd", "Gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
+  "keywords": ["whatsappbot", "SwìftMd", "Swift Md bot", "Swift-Md", "SwiftMdWhatsaooBot", "SwiftWaBot","SwiftMD","Swift Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+      "value": "𝗦𝗪𝗜𝗙𝗧 𝗠𝗗",
       "required" :true
     },   
     
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
+      "value": "𝗦𝗪𝗜𝗙𝗧 𝗠𝗗"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "254746995661"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -132,12 +132,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
+      "value": "S͎w͎i͎f͎t͎-͎M͎S͎V͎1͎🔥",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "Whatsappbot",
+      "value": "Swift-MSV1",
       "required": true 
     }
   }, 
